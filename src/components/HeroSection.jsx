@@ -35,6 +35,8 @@ const HeroSection = () => {
             </a>
             <a className='transition-all duration-200 ease-in-out font-semibold text-[20px] py-[10px] rounded-[60px] text-[#f4f3f8] bg-[#6b66da] items-center justify-center pl-[30px] pr-[25px] '>{HSFContent.secondaryButtonText}</a>
         </div>
+        <h2 className='flex font-semibold'>Made by&nbsp; <a target='_blank' rel="noopener noreferrer" href="https://www.abuzer.tech/" className='underline cursor-pointer text-[#f84f39]'>Abuzer</a></h2>
+
     </div>
   )
 }
